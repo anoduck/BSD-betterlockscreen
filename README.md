@@ -1,7 +1,7 @@
 <img src="./logo.svg" height="200" alt="BLS-Logo" />
 
 # Betterlockscreen
-> fast and sweet looking lockscreen for linux systems with effects!
+> A fast and sweet looking lockscreen forked from betterlockscreen and corrupter for bsd systems with swanky effects!
 
 <div align="center">
   <a href="https://github.com/betterlockscreen/betterlockscreen/releases"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/betterlockscreen/betterlockscreen?include_prereleases&label=latest&style=for-the-badge"></a>
@@ -41,9 +41,11 @@
 - [Usage](#usage)
 - [Background](#background)
 - [Keybinding](#keybindings)
-- [Lockscreen on sleep/suspend with systemd](#systemd)
+- ~~[Lockscreen on sleep/suspend with systemd](#systemd)~~
 
 ## About
+
+TODO: Rewrite this doc later.
 
 Most of i3lock wrapper-scripts out there take an image, add some effect(s) then lock with the modified image as locker-background. Overall experience doesn't feel natural given delay of 2-3 seconds.
 
